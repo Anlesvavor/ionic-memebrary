@@ -1,5 +1,7 @@
 {
   "name": "ionic-memebrary",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
